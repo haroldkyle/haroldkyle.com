@@ -1,0 +1,25 @@
+# Dependencies
+markdown:            redcarpet
+highlighter:         pygments
+
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+relative_permalinks: true
+
+# Setup
+title:               Harold Kyle
+url:                 http://haroldkyle.com
+baseurl:             /
+paginate:            5
+assets:				 "/assets/"
+
+# About/contact
+author:
+  name:              Harold Kyle
+  url:               http://haroldkyle.com
+  email:             h@haroldkyle.com
+
+# Custom vars
+version:             1.0.0
