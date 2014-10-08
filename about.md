@@ -12,4 +12,4 @@ When I'm feeling social, I'm at
 [Instagram](http://instagram.com/haroldkyle), and
 [LinkedIn](http://www.linkedin.com/in/letterpress).
 
-Fork this at [Github](https://github.com/haroldkyle/haroldkyle.github.io).
+Fork this at [Github](https://github.com/haroldkyle/haroldkyle.com).

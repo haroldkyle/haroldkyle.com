@@ -13,13 +13,13 @@ title:               Harold Kyle
 url:                 http://haroldkyle.com
 baseurl:             /
 paginate:            5
-assets:				 "/assets/"
+assets:				       "/assets/"
 
 # About/contact
 author:
   name:              Harold Kyle
   url:               http://haroldkyle.com
-  email:             h@haroldkyle.com
+  email:             harold@boxcarpress.com
 
 # Custom vars
 version:             1.0.0
@@ -27,10 +27,10 @@ version:             1.0.0
 # Resizing images
 mini_magick:
     thumbnail:
-        source: /assets/images/full
-        destination: /assets/images/thumbnail
-        resize: "100x100"
+        source:       /assets/images/full
+        destination:  /assets/images/thumbnail
+        resize:       "100x100"
     medium:
-        source: /assets/images/full
-        destination: /assets/images/medium
-        resize: "720x540"
+        source:       /assets/images/full
+        destination:  /assets/images/medium
+        resize:       "720x540"
