@@ -25,6 +25,9 @@
         {% endif %}
       {% endif %}
     {% endfor %}
+    {% for category in site.categories %}
+      <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="/{{category | first}}/">{{ category | first | capitalize }}</a>
+    {% endfor %}
   </nav>
 
   <div class="sidebar-item">

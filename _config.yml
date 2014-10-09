@@ -5,8 +5,8 @@ highlighter:         pygments
 # Permalinks
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
-permalink:           pretty
-relative_permalinks: true
+permalink:           :categories/:title/
+relative_permalinks: false
 
 # Setup
 title:               Harold Kyle
@@ -14,6 +14,8 @@ url:                 http://haroldkyle.com
 baseurl:             /
 paginate:            5
 assets:				       "/assets/"
+description:         "Hiking, coding, and cast iron."
+archive_base:        "category"
 
 # About/contact
 author:

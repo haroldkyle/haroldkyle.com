@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+description: I am a native Marylander who lives in Syracuse after seven formative years in Minnesota. I love hiking, coding, and cast iron.
 ---
 ![Abbot Pass]({{ site.assets }}images/medium/2014-10-06-abbot-pass.jpg)
 
