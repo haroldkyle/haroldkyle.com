@@ -28,7 +28,21 @@
  */
 
 
+@font-face {
+  font-family: 'EB Garamond';
+  src: url('EBGaramond-0.016-web/EBGaramond12-Regular.eot?') format('eot'), 
+       url('EBGaramond-0.016-web/EBGaramond12-Regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
 
+@font-face {
+  font-family: 'EB Garamond Italic';
+  src: url('EBGaramond-0.016-web/EBGaramond12-Italic.eot?') format('eot'), 
+       url('EBGaramond-0.016-web/EBGaramond12-Italic.woff') format('woff');
+  font-weight: normal;
+  font-style: italic;
+}
 
 /*
  * Body resets
@@ -64,12 +78,13 @@ body {
   background-color: #fff;
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
-  -moz-font-feature-settings:"liga=1, dlig=1"; 
-  -moz-font-feature-settings:"liga", "dlig"; /* EDIT: new syntax for FF 15+ */ 
-  -ms-font-feature-settings:"liga", "dlig"; 
-  -o-font-feature-settings:"liga", "dlig"; 
-  -webkit-font-feature-settings:"liga", "dlig"; 
-  font-feature-settings:"liga", "dlig";
+    -moz-font-feature-settings: "kern" 1, "liga" 1;
+    -ms-font-feature-settings: "kern" 1, "liga" 1;
+    -o-font-feature-settings: "kern" 1, "liga" 1;
+    -webkit-font-feature-settings: "kern" 1, "liga" 1;
+    font-feature-settings: "kern" 1, "liga" 1;
+    -webkit-font-smoothing: antialiased;
+    -webkit-text-stroke: 1px rgba(0, 0, 0, 0.1);
 }
 
 /* No `:visited` state is required by default (browsers will use `a`) */
@@ -84,6 +99,10 @@ a strong {
 a:hover,
 a:focus {
   text-decoration: underline;
+}
+
+em{
+  font-family: "EB Garamond Italic", Georgia, Serif;
 }
 
 /* Headings */
