@@ -6,5 +6,5 @@ require 'open-uri'
 versions = JSON.parse(open('https://pages.github.com/versions.json').read)
 
 gem 'github-pages', versions['github-pages']
-gem 'typogruby'
 gem 'jekyll-minimagick'
+gem 'jekyll-oembed', :require => 'jekyll_oembed'
