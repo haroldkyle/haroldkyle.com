@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Paper Rush
-categories: [letterpress]
+categories: [ink-on-paper]
 description: Ordering custom paper direct from a paper mill gives quite a rush.
 ---
 You'd think that after 16 years of selling millions of sheets of I would be somewhat jaded by paper. I found out today this was (thankfully) not the case. In August I decided (impulsively) to order a new type of paper from a paper mill that I had never worked with before. Custom paper is not something possible on a small scale, so I was putting thousands of dollars on the line. 

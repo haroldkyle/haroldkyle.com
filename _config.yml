@@ -14,7 +14,7 @@ url:                 http://haroldkyle.com
 baseurl:             /
 paginate:            5
 assets:				       "/assets/"
-description:         "Hiking, coding, and cast iron."
+description:         "Harold Kyle"
 archive_base:        "category"
 
 # About/contact

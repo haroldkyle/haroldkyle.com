@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hello Jekyll
-categories: [coding]
+categories: [code-enforcement]
 description: I'm ditching WordPress for something more nimble. And it feels so nice.
 ---
 So my big news is that I'm starting an MBA program this month, at [MIT Sloan](http://mitsloan.mit.edu/). Realizing that I'll need to take a lot of notes in the upcoming months, I hunkered down this last weekend to figure out how to stay organized.
