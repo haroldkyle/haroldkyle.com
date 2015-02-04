@@ -1,0 +1,11 @@
+---
+layout: default
+---
+<div class="page">
+  <h1 class="page-title">{{ page.title }}</h1>
+<ul>{{ page.path }}
+{% directory %}
+  <li><a href="{{ file.url | replace: 'md', 'html' }}">{{ file.name | replace: "md", "html" }}</a></li>
+{% enddirectory %}
+</ul>
+</div>
