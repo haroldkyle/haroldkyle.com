@@ -4,6 +4,9 @@ title: Bye Bye Dropbox
 categories: [code-enforcement]
 description: Ordering custom paper direct from a paper mill gives quite a rush.
 ---
+<blockquote class="twitter-tweet" lang="en"><p>After terrible <a href="https://twitter.com/Dropbox">@Dropbox</a> support, happily moving <a href="https://twitter.com/DebbieUrbanski">@DebbieUrbanski</a> over to <a href="https://twitter.com/ownCloud">@ownCloud</a> with s3ql storage = pennies for ∞ space. Great combo.</p>&mdash; Harold Kyle (@harold_kyle) <a href="https://twitter.com/harold_kyle/status/521862162546188288">October 14, 2014</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 I thought I was doing [my wife](http://debbieurbanski.com) a favor by setting her up with [Dropbox](https://www.dropbox.com), so that she could sync her writing notes between her laptop and her desktop computer. Of course, this worked for a while, and was very smooth. That is, until *somehow* her humongous database of writing research (we're talking several megabytes of text files here, by the way) synced an empty version across all her devices. No more database. Well, this should have been an easy process of restoring a deleted file, but, to save you the story, we entered Dropbox Support hell. Since we have lost hope of Dropbox helping, her database is gone.
 
 I feel a little bad in retrospect, because for the past year and a half I've had my own way of syncing files that works *much* better. The "last straw" that prompted me to flee Dropbox was the huge Dropbox cache file which continually filled up my PC hard drive...and kept filling up the drive as soon as I'd cleared out space. 
